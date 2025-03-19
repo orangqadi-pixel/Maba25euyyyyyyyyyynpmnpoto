@@ -10,7 +10,7 @@ const Greeting = () => {
 			{/* <div className="w-60 h-80 bg-yellow-500 mt-8">Gambar</div> */}
 			<div className="relative w-full md:w-2/5 h-[400px] mt-6">
 				<Image
-					src={"/visi bounty.png"}
+					src={"./visi bounty.png"}
 					fill
 					sizes="500px"
 					className="object-scale-down"
