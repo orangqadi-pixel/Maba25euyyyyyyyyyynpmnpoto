@@ -29,7 +29,6 @@ export default function RootLayout({ children }) {
 			<body
 				className={`${oswald.variable} ${lobster.variable} ${caveat.variable}  antialiased overflow-x-hidden`}>
 				{children}
-				<Foooter />
 			</body>
 		</html>
 	);

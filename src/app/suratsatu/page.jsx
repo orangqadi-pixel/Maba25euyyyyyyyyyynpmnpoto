@@ -21,7 +21,7 @@ const SuratSatu = () => {
 				<div className="mb-2 flex flex-col gap-4 items-center">
 					<h1 className="text-xl font-bold ">Surat pertama</h1>
 					<p className="text-xl font-normal mb-1">
-						Halo Visianty, sekarang kamu udah 18 tahun, selamat yaa,. Mungkin
+						Halo seeseoranng, sekarang kamu udah 18 tahun, selamat yaa,. Mungkin
 						disini aku nyampein pesannya pake indo aja ya
 					</p>
 					<p className="text-xl font-normal">

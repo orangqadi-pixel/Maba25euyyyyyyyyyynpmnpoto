@@ -5,8 +5,10 @@ const Letters = () => {
 	return (
 		<div className="w-full py-16">
 			<div className="flex flex-col gap-4">
-				{/* <h1 className="text-2xl">Hallo VISIII! Happy Birthday yang ke-18!!</h1> */}
-				<h1 className="text-2xl">Hallo Visiii Happy Birthday yang ke-18!!</h1>
+				{/* <h1 className="text-2xl">Hallo Happy Birthday yang ke-18!!</h1> */}
+				<h1 className="text-2xl">
+					Hallo Seseorang Happy Birthday yang ke-18!!
+				</h1>
 				<div className="mb-4">
 					<h2 className="text-xl font-bold">
 						How are you? hope that you're fine

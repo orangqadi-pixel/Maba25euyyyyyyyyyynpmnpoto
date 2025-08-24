@@ -55,8 +55,8 @@ const SuratDua = () => {
 						</h1>
 					</div>
 					<p className="text-lg">
-						YEAAAY 🎉✨, selamat yaa dapet Farmasi Unpad! Ahhh kepanjangan nanti
-						kamu males bacanya jadi langsung aja ya ke...
+						YEAAAY 🎉✨, selamat yaa dapet Kuliah di Unpad! Ahhh kepanjangan
+						nanti kamu males bacanya jadi langsung aja ya ke...
 					</p>
 					<div className="w-[350px] h-[200px] bg-sky-800 flex items-center justify-center">
 						<h1 className="font-bold text-center">
