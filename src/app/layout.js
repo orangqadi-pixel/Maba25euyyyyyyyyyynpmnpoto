@@ -19,7 +19,7 @@ const lobster = Lobster({
 });
 
 export const metadata = {
-	title: "Happy Birthday Visii",
+	title: "Happy Birthday beibbb",
 	description: "A web page to celebrate visianty birthday",
 };
 
